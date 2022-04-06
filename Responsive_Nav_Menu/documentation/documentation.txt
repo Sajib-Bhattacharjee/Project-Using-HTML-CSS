@@ -1,0 +1,5 @@
+
+
+
+Note: This is a simple navBar using only HTML && CSS. I've used here flex-box layout for designing this navBar. I hope 
+this will help you to when you will disign a simple navBar. So, Thank you !!! Keep Learning....... 
